@@ -95,12 +95,15 @@ O eBook foi criado para iniciantes que desejam aprender os fundamentos de Python
 
 ## 🧙‍♀️ Autoria
 
-Criado por **Laura Felício**, como parte do processo de aprendizado em programação e da graduação em Segurança da Informação.
+Este projeto foi desenvolvido por **Laura Felício** como parte das atividades do curso "Introdução à Engenharia de Prompts", ministrado por Felipe Aguiar e oferecido pela plataforma DIO.
 
-> Esse conteúdo foi produzido com fins didáticos e pode conter pequenos erros gerados por IA.  
-> Para contribuir com sugestões ou melhorias, envie uma mensagem no GitHub.  
+> ⚠️ Esse conteúdo foi produzido com fins didáticos e pode conter pequenos erros gerados por IA.  
+> 💬 Para contribuir com sugestões ou melhorias, envie uma mensagem no GitHub.  
 > 🔗 [github.com/lxfelicio/prompts-recipe-to-create-a-ebook](https://github.com/lxfelicio/prompts-recipe-to-create-a-ebook)
+
+
+> Este projeto foi desenvolvido a partir de um fork do repositório original de Felipe Aguiar (https://github.com/felipeAguiarCode), como parte das atividades do curso.
 
 ---
 
-⌨️ com 🐍, 🎲 e 💜 por [Laura Felício](https://github.com/lxfelicio)
+⌨️  Criado com 🐍, 🎲 e 💜 por [Laura Felício](https://github.com/lxfelicio)
