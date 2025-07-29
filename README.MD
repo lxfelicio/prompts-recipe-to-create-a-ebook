@@ -11,7 +11,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/banner-readme.png"
     width="400"  
 />
 </p>
@@ -23,7 +23,7 @@
 
 Este é um projeto pessoal que une didática, criatividade e ferramentas de inteligência artificial para ensinar programação de forma lúdica. O eBook leva o leitor a uma verdadeira campanha mágica onde aprender Python é como destravar feitiços, enfrentar desafios e montar sua própria ficha de personagem.
 
-📖 [Clique aqui para acessar o eBook em PDF](./output/ebook - dungeon and python.pdf)
+📖 [Clique aqui para acessar o eBook em PDF](output/ebook%20-%20dungeon%20and%20python.pdf)
 
 ---
 
